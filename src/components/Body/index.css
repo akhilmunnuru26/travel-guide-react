@@ -1,0 +1,32 @@
+.bg-container {
+  padding: 20px;
+  background-color: #eef4f7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.packages-list-container {
+  padding-left: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.loader-spinner {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.title {
+  color: #69768a;
+  font-size: 22px;
+  border-bottom: 3px solid #52bbf0;
+  width: 150px;
+  text-align: center;
+  padding-bottom: 10px;
+}

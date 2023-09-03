@@ -1,0 +1,26 @@
+.package-item {
+  list-style-type: none;
+  border-radius: 8px;
+  width: 300px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.package-image {
+  width: 100%;
+}
+
+.content {
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.package-name {
+  color: #334155;
+  font-size: 12px;
+}
+
+.package-description {
+  color: #475569;
+  font-size: 12px;
+}
